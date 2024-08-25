@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Gill Sans MT";
+  color: white;
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+#page1 {
+  height: 100%;
+  width: 100%;
+  background-color: white;
+}
+
+#page2 {
+  height: 100%;
+  width: 100%;
+  background-color: rgb(5, 5, 5);
+  padding: 40px 10px;
+}
+
+#page3 {
+  height: 100%;
+  width: 100%;
+  background-color: white;
+}
+
+#page2 h1 {
+  font-size: 40vw;
+  text-transform: uppercase;
+  color: yellow;
+}
